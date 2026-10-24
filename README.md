@@ -21,7 +21,7 @@ Fill this in first and keep it current. The panel reads this table before your d
 
 Student: Kelli Eismann 
 Repository: https://github.com/kellieis/estonia-to-australia-compass
-Live prototype: [URL – not yet built] 
+Live prototype: https://github.com/kellieis/estonia-to-australia-compass.git
 Build tool(s) used in creating the prototype: [Lovable / Cursor / Claude Code / Codex]
 
 | | |
