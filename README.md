@@ -20,6 +20,7 @@ Fill this in first and keep it current. The panel reads this table before your d
 > **DownUnder Compass is a relocation platform that gives Estonians moving to Australia for study or work one personalised, verified plan covering visas, city choice, housing, jobs, banking and costs, so they pay to save weeks of research and avoid costly mistakes.**
 
 Student: Kelli Eismann 
+Repository: https://github.com/kellieis/MBA715Prototyping2026
 Live prototype: [URL – not yet built] 
 Build tool(s) used in creating the prototype: [Lovable / Cursor / Claude Code / Codex]
 
